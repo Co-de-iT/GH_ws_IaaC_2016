@@ -14,34 +14,40 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 
 ### day 01
 
-#### morning
+##### _morning_
 
-#### afternoon
+##### _afternoon_
+
 
 ### day 02
 
-#### morning
+##### _morning_
 
-#### afternoon
+##### _afternoon_
+
 
 ### day 03
 
-#### morning
+##### _morning_
 
-#### afternoon
+##### _afternoon_
 
 ---
 
 ## requirements
 
-All participants should be equipped with their own laptop and, besides the latest version of Rhinoceros 3D and Grasshopper (Windows only), be sure to have also installed the latest version of following plugins:
+All participants should be equipped with their own laptop and, besides the latest version of Rhinoceros 3D and Grasshopper (Windows only), be sure to have also installed the latest version of the following plugins:
 
-+ [Anemone](http://www.food4rhino.com/project/anemone?etx)
-+ [Boids]()
-+ [Human](http://www.food4rhino.com/project/human?etx)
++ [4D Noise](http://www.food4rhino.com/project/4dnoise)
++ [Anemone](http://www.food4rhino.com/project/anemone)
++ [Boids](http://www.food4rhino.com/project/boid)
++ [Heteroptera](http://www.food4rhino.com/project/heteroptera)
++ [Human](http://www.food4rhino.com/project/human)
 + [Human UI](http://www.food4rhino.com/project/human-ui)
 + [LadyBug + HoneyBee](http://www.food4rhino.com/project/ladybug-honeybee)
 + [Shortest Walk](http://www.food4rhino.com/project/shortestwalkgh)
+
+(suggestions: Tree8, LunchBox - I'll also share a bunch of user objects I have)
 
 ---
 
@@ -53,5 +59,5 @@ All participants should be equipped with their own laptop and, besides the lates
 
 The workshop's code is organized in topic-based folders. The current code (and the info in this file) will be updated and integrated as the workshop unfolds.
 
-## WIP
+##### WIP
 WIP folder - tentative code and stuff goes here

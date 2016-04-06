@@ -36,12 +36,12 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 
 All participants should be equipped with their own laptop and, besides the latest version of Rhinoceros 3D and Grasshopper (Windows only), be sure to have also installed the latest version of following plugins:
 
-. [Anemone](http://www.food4rhino.com/project/anemone?etx)
-. [Boids]()
-. [Human](http://www.food4rhino.com/project/human?etx)
-. [Human UI](http://www.food4rhino.com/project/human-ui)
-. [LadyBug + HoneyBee](http://www.food4rhino.com/project/ladybug-honeybee)
-. [Shortest Walk](http://www.food4rhino.com/project/shortestwalkgh)
++ [Anemone](http://www.food4rhino.com/project/anemone?etx)
++ [Boids]()
++ [Human](http://www.food4rhino.com/project/human?etx)
++ [Human UI](http://www.food4rhino.com/project/human-ui)
++ [LadyBug + HoneyBee](http://www.food4rhino.com/project/ladybug-honeybee)
++ [Shortest Walk](http://www.food4rhino.com/project/shortestwalkgh)
 
 ---
 

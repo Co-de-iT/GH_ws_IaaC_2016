@@ -1,7 +1,13 @@
 # reciproCITY
-code for the 2016 IaaC ws
 
-## brief
+### agent-based design at the urban scale
+
+#### _where_ IaaC | Barcelona
+#### _when_ April 15th-17th, 2016
+#### _tutors_ Aldo Sollazzo, Alessio Erioli
+
+## . brief
+
 While urban structures act like ecologies, developing interdependent relations across diverse scales; all too often the design tools applied at the urban scale (ie planning) limit themselves to a series of top-down decisions, with a single decisional direction spanning concentric scales.
 The aim of the workshop is to explore a shift in the design paradigm, from the planning of urban criteria and parameters, to the design of behaviors able to operate in information rich environments, finally allowing to build urban structures from the bottom up.
 Starting from pervasive data maps, the operational substrate, participants will design basic behaviors for a multi-agent based system able to grow building coherent compounds, which are not only responsive geometries, but are constantly assessed by an internal feedback system.
@@ -10,7 +16,7 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 
 ---
 
-## agenda
+## . agenda
 
 ### day 01
 
@@ -34,7 +40,7 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 
 ---
 
-## requirements
+## . requirements
 
 All participants should be equipped with their own laptop and, besides the latest version of Rhinoceros 3D and Grasshopper (Windows only), be sure to have also installed the latest version of the following plugins:
 
@@ -51,13 +57,16 @@ All participants should be equipped with their own laptop and, besides the lates
 
 ---
 
-## workshop material
-
-
+## . workshop material
 
 ### code
 
-The workshop's code is organized in topic-based folders. The current code (and the info in this file) will be updated and integrated as the workshop unfolds.
+The workshop code is organized in topic-based folders. The current code (and the info in this file) will be updated and integrated as the workshop unfolds.
 
 ##### WIP
 WIP folder - tentative code and stuff goes here
+
+
+### references
+
+Some bits and hints of reading for both a theoretical and practical contextualization of the computational strategies developed.

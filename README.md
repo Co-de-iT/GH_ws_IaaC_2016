@@ -22,21 +22,37 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 
 ##### _morning_
 
++ introduction to agency (lecture)
++ first approach to behavior-based protocols in Grasshopper
+
 ##### _afternoon_
 
++ environmental data implementation
++ flocking and stigmergy 1/2
 
 ### day 02
 
 ##### _morning_
 
++ flocking and stigmergy 2/2
++ generation process
+
 ##### _afternoon_
 
++ custom behaviors
++ templates explanation
 
 ### day 03
 
 ##### _morning_
 
++ tutorized work + personal development
+
 ##### _afternoon_
+
++ tutorized work + personal development
++ presentation (?)
++ final party (?)
 
 ---
 
@@ -51,6 +67,7 @@ All participants should be equipped with their own laptop and, besides the lates
 + [Human](http://www.food4rhino.com/project/human)
 + [Human UI](http://www.food4rhino.com/project/human-ui)
 + [LadyBug + HoneyBee](http://www.food4rhino.com/project/ladybug-honeybee)
++ [Sandbox Topology](http://www.food4rhino.com/project/sandboxtopo)
 + [Shortest Walk](http://www.food4rhino.com/project/shortestwalkgh)
 
 (suggestions: Tree8, LunchBox - I'll also share a bunch of user objects I have)

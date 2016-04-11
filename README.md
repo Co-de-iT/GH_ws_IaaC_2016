@@ -63,6 +63,7 @@ All participants should be equipped with their own laptop and, besides the lates
 + [4D Noise](http://www.food4rhino.com/project/4dnoise)
 + [Anemone](http://www.food4rhino.com/project/anemone)
 + [Boids](http://www.food4rhino.com/project/boid)
++ [Cocoon](http://www.bespokegeometry.com/2015/07/22/cocoon/)
 + [Heteroptera](http://www.food4rhino.com/project/heteroptera)
 + [Human](http://www.food4rhino.com/project/human)
 + [Human UI](http://www.food4rhino.com/project/human-ui)

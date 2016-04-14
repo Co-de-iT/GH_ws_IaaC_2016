@@ -8,7 +8,7 @@
 
 ## . brief
 
-While urban structures act like ecologies, developing interdependent relations across diverse scales; all too often the design tools applied at the urban scale (ie planning) limit themselves to a series of top-down decisions, with a single decisional direction spanning concentric scales.
+While urban structures act like ecologies, developing interdependent relations across diverse scales, all too often the design tools applied at the urban scale (ie planning) limit themselves to a series of top-down decisions, with a single decisional direction spanning concentric scales.
 The aim of the workshop is to explore a shift in the design paradigm, from the planning of urban criteria and parameters, to the design of behaviors able to operate in information rich environments, finally allowing to build urban structures from the bottom up.
 Starting from pervasive data maps, the operational substrate, participants will design basic behaviors for a multi-agent based system able to grow building coherent compounds, which are not only responsive geometries, but are constantly assessed by an internal feedback system.
 The general aim is to design an ecology of mutual negotiation strategies between agents and the environment, thus re-thinking the hierarchies at work on the urban scale. In this sense scale itself is not just understood as extensive metric size, but rather the detection of certain system behaviors.

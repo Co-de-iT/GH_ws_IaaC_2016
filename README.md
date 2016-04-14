@@ -19,23 +19,22 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 ## . agenda
 
 ### day 01
-
-##### _morning_
+##### _afternoon_
 
 + introduction to agency (lecture)
 + first approach to behavior-based protocols in Grasshopper
-
-##### _afternoon_
-
 + environmental data implementation
 + flocking and stigmergy 1/2
++ flocking and stigmergy 2/2
 
 ### day 02
 
 ##### _morning_
 
-+ flocking and stigmergy 2/2
 + generation process
++ generative urban morphologies
++ generative urban patterns
++ generative urban apparatus 
 
 ##### _afternoon_
 

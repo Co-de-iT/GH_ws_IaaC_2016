@@ -4,7 +4,7 @@
 
 ##### _where_ | IaaC, Barcelona
 ##### _when_ | April 15th-17th, 2016
-##### _tutors_ | Aldo Sollazzo, Alessio Erioli
+##### _tutors_ | Aldo Sollazzo, Alessio Erioli, Eugenio Bettucchi
 
 ## . brief
 

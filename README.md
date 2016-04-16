@@ -38,8 +38,7 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 
 ##### _afternoon_
 
-+ custom behaviors
-+ templates explanation
++ tutorized work + personal development
 
 ### day 03
 
@@ -50,8 +49,8 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 ##### _afternoon_
 
 + tutorized work + personal development
-+ presentation (?)
-+ final party (?)
++ presentation 
++ final party 
 
 ---
 

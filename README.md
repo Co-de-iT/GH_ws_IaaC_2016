@@ -66,6 +66,7 @@ All participants should be equipped with their own laptop and, besides the lates
 + [Human](http://www.food4rhino.com/project/human)
 + [Human UI](http://www.food4rhino.com/project/human-ui)
 + [LadyBug + HoneyBee](http://www.food4rhino.com/project/ladybug-honeybee)
++ [Mesh Tools](http://www.grasshopper3d.com/forum/topics/mesh-pipe)
 + [Sandbox Topology](http://www.food4rhino.com/project/sandboxtopo)
 + [Shortest Walk](http://www.food4rhino.com/project/shortestwalkgh)
 

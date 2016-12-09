@@ -1,3 +1,5 @@
+![cover](https://raw.githubusercontent.com/Co-de-iT/GH_ws_IaaC_2016/master/DOCUMENTATION/diskreet_01.png)
+
 # reciproCITY
 
 ### agent-based design at the urban scale
